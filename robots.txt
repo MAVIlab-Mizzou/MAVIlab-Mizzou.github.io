@@ -1,1 +1,1 @@
-Sitemap: http://mavilab.net/sitemap.xml
+Sitemap: https://mavilab-mizzou.github.io/sitemap.xml

@@ -1,174 +1,2308 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/cvprw59228.2023.00345
+  title: 'CNT-NeRF: Carbon Nanotube Forest Depth Layer Decomposition in SEM Imagery
+    using Generative Adversarial Networks'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Nguyen P. Nguyen
+  - Ramakrishna Surya
+  - Prasad Calyam
+  - Kannappan Palaniappan
+  - Matthew Maschmann
+  - Filiz Bunyak
+  publisher: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+    (CVPRW)
+  date: '2023-06-01'
+  link: https://doi.org/g9pfhg
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1371/journal.pone.0284082
+  title: Corneal injury is associated with stromal and vascular alterations within
+    cranial dura mater
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Olga V. Glinskii
+  - Vladislav V. Glinsky
+  - Leike Xie
+  - Filiz Bunyak
+  - Vladimir V. Glinskii
+  - Sunilima Sinha
+  - Suneel Gupta
+  - Renato V. Iozzo
+  - Rajiv R. Mohan
+  publisher: PLOS ONE
+  date: '2023-04-20'
+  link: https://doi.org/g9pfhh
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP49359.2023.10222403
+  title: 'DFT-CAM: Discrete Fourier Transform Driven Class Activation Map'
+  authors:
+  - Yang Yang Wang
+  - Filiz Bunyak
+  publisher: 2023 IEEE International Conference on Image Processing (ICIP)
+  date: '2023-10-08'
+  link: https://doi.org/g9pfhj
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:https://doi.org/10.1007/s11263-023-01910-x
+  title: 'DeepFTSG: Multi-stream Asymmetric USE-Net Trellis Encoders with Shared Decoder
+    Feature Fusion Architecture for Video Motion Segmentation'
+  authors:
+  - Gani Rahmon
+  - Kannappan Palaniappan
+  - Imad Eddine Toubal
+  - Filiz Bunyak
+  - Raghuveer Rao
+  - Guna Seetharaman
+  publisher: International Journal of Computer Vision
+  date: '2024-03-01'
+  link: https://doi.org/g9pfhk
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP49359.2023.10222020
+  title: Predicting Mechanical Properties of Carbon Nanotube (CNT) Images Using Multi-Layer
+    Synthetic Finite Element Model Simulations
+  authors:
+  - Kaveh Safavigerdini
+  - Koundinya Nouduri
+  - Ramakrishna Surya
+  - Andrew Reinhard
+  - Zach Quinlan
+  - Filiz Bunyak
+  - Matthew R. Maschmann
+  - Kannappan Palaniappan
+  publisher: 2023 IEEE International Conference on Image Processing (ICIP)
+  date: '2023-10-08'
+  link: https://doi.org/g9pfhm
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2022.869592
+  title: A Strength Endurance Exercise Paradigm Mitigates Deficits in Hypoglossal-Tongue
+    Axis Function, Strength, and Structure in a Rodent Model of Hypoglossal Motor
+    Neuron Degeneration
+  authors:
+  - Erika R. Murphy
+  - Rebecca Thompson
+  - Kate L. Osman
+  - Chandler Haxton
+  - Margaret Brothers
+  - Li Lee
+  - Kristen Warncke
+  - Catherine L. Smith
+  - Amy N. Keilholz
+  - Ali Hamad
+  - Mojgan Golzy
+  - Filiz Bunyak
+  - Lixin Ma
+  - Nicole L. Nichols
+  - Teresa E. Lever
+  publisher: Frontiers in Neuroscience
+  date: '2022-06-30'
+  link: https://doi.org/g9pfhn
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR57179.2022.10092238
+  title: Axon and Myelin Sheath Segmentation in Electron Microscopy Images using Meta
+    Learning
+  authors:
+  - Nguyen P. Nguyen
+  - Stephanie Lopez
+  - Catherine L. Smith
+  - Teresa E. Lever
+  - Nicole L. Nichols
+  - Filiz Bunyak
+  publisher: 2022 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2022-10-11'
+  link: https://doi.org/g9pfhp
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00455-022-10442-4
+  title: Impact of Limb Phenotype on Tongue Denervation Atrophy, Dysphagia Penetrance,
+    and Survival Time in a Mouse Model of ALS
+  authors:
+  - Marissa Mueller
+  - Rebecca Thompson
+  - Kate L. Osman
+  - Ellyn Andel
+  - Chandler A. DeJonge
+  - Sophia Kington
+  - Zola Stephenson
+  - Ali Hamad
+  - Filiz Bunyak
+  - Nicole L. Nichols
+  - Teresa E. Lever
+  publisher: Dysphagia
+  date: '2022-04-15'
+  link: https://doi.org/g6b3fm
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compbiomed.2022.105339
+  title: 'LARNet-STC: Spatio-temporal orthogonal region selection network for laryngeal
+    closure detection in endoscopy videos'
+  authors:
+  - Yang Yang Wang
+  - Ali S. Hamad
+  - Kannappan Palaniappan
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: Computers in Biology and Medicine
+  date: '2022-05-01'
+  link: https://doi.org/gqhh6v
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/eScience55777.2022.00023
+  title: Remote Instrumentation Science Environment for Intelligent Image Analytics
+  authors:
+  - Mauro Lemus Alarcon
+  - Songjie Wang
+  - Nguyen Nguyen
+  - Ashish Pandey
+  - Filiz Bunyak
+  - Matthew Maschmann
+  - Kannappan Palaniappan
+  - Prasad Calyam
+  publisher: 2022 IEEE 18th International Conference on e-Science (e-Science)
+  date: '2022-10-01'
+  link: https://doi.org/g9pfhq
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.exer.2022.109247
+  title: Time-dependent in situ structural and cellular aberrations in rabbit cornea
+    in vivo after mustard gas exposure
+  authors:
+  - Nishant R. Sinha
+  - Ratnakar Tripathi
+  - Praveen K. Balne
+  - Sydney L. Green
+  - Prashant R. Sinha
+  - Filiz Bunyak
+  - Elizabeth A. Giuliano
+  - Shyam S. Chaurasia
+  - Rajiv R. Mohan
+  publisher: Experimental Eye Research
+  date: '2022-11-01'
+  link: https://doi.org/gt33fm
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00455-021-10374-5
+  title: Advancing Laryngeal Adductor Reflex Testing Beyond Sensory Threshold Detection
+  authors:
+  - Teresa E. Lever
+  - Ashley M. Kloepper
+  - Ian Deninger
+  - Ali Hamad
+  - Bridget L. Hopewell
+  - Alyssa K. Ovaitt
+  - Marlena Szewczyk
+  - Filiz Bunyak
+  - Bradford Zitsch
+  - Brett Blake
+  - Caitlin Vandell
+  - Laura Dooley
+  publisher: Dysphagia
+  date: '2021-10-22'
+  link: https://doi.org/gm7887
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCVW54120.2021.00059
+  title: Brain midline shift detection and quantification by a cascaded deep network
+    pipeline on non-contrast computed tomography scans
+  authors:
+  - Nguyen P. Nguyen
+  - Youngjin Yoo
+  - Andrei Chekkoury
+  - Eva Eibenberger
+  - Thomas J. Re
+  - Jyotipriya Das
+  - Abishek Balachandran
+  - Yvonne W. Lui
+  - Pina C. Sanelli
+  - Thomas J. Schroeppel
+  - Uttam Bodanapally
+  - Savvas Nicolaou
+  - Tommi A. White
+  - Filiz Bunyak
+  - Dorin Comaniciu
+  - Eli Gibson
+  publisher: 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
+  date: '2021-10-01'
+  link: https://doi.org/g9pfhr
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCVW54120.2021.00375
+  title: 'DMNet: Dual-Stream Marker Guided Deep Network for Dense Cell Segmentation
+    and Lineage Tracking'
+  authors:
+  - Rina Bao
+  - Noor M. Al-Shakarji
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
+  date: '2021-10-01'
+  link: https://doi.org/g9pfhs
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-020-03948-x
+  title: 'DRPnet: automated particle picking in cryo-electron micrographs using deep
+    regression'
+  authors:
+  - Nguyen Phuoc Nguyen
+  - Ilker Ersoy
+  - Jacob Gotberg
+  - Filiz Bunyak
+  - Tommi A. White
+  publisher: BMC Bioinformatics
+  date: '2021-02-08'
+  link: https://doi.org/gsw7mx
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR52630.2021.9762193
+  title: Ensemble of Deep Learning Cascades for Segmentation of Blood Vessels in Confocal
+    Microscopy Images
+  authors:
+  - Yang Yang Wang
+  - O. V. Glinskii
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2021 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2021-10-12'
+  link: https://doi.org/g9pfht
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/IMECE2021-73554
+  title: In-Situ Scanning Electron Microscope Chemical Vapor Deposition as a Platform
+    for Nanomanufacturing Insights
+  authors:
+  - Gordon Koerner
+  - Ramakrishna Surya
+  - Kannappan Palaniappan
+  - Prasad Calyam
+  - Filiz Bunyak
+  - Matthew R. Maschmann
+  publisher: 'Volume 2B: Advanced Manufacturing'
+  date: '2021-11-01'
+  link: https://doi.org/g9pfhv
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSEN.2020.3042810
+  title: Local Feature Performance Evaluation for Structure-From-Motion and Multi-View
+    Stereo Using Simulated City-Scale Aerial Imagery
+  authors:
+  - Ke Gao
+  - Hadi Aliakbarpour
+  - Joshua Fraser
+  - Koundinya Nouduri
+  - Filiz Bunyak
+  - Ricky Massaro
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: IEEE Sensors Journal
+  date: '2021-05-15'
+  link: https://doi.org/g9pfhw
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR52630.2021.9762176
+  title: Mitochondria Instance Segmentation in Electron Microscopy Image Volumes using
+    3D Deep Learning Networks
+  authors:
+  - Nguyen P. Nguyen
+  - Tommi A. White
+  - Filiz Bunyak
+  publisher: 2021 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2021-10-12'
+  link: https://doi.org/g9pfhx
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR52630.2021.9762216
+  title: Multi-Modal and Multi-Scale Oral Diadochokinesis Analysis using Deep Learning
+  authors:
+  - Yang Yang Wang
+  - Ke Gaol
+  - Ali Hamad
+  - Brianna McCarthy
+  - Ashley M. Kloepper
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: 2021 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2021-10-12'
+  link: https://doi.org/g9pfhz
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41524-021-00603-8
+  title: Predicting carbon nanotube forest attributes and mechanical properties using
+    simulated images and deep learning
+  authors:
+  - Taher Hajilounezhad
+  - Rina Bao
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  - Prasad Calyam
+  - Matthew R. Maschmann
+  publisher: npj Computational Materials
+  date: '2021-08-19'
+  link: https://doi.org/gt5mqp
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tpj.15299
+  title: '<scp>grasviq</scp>: an image analysis framework for automatically quantifying
+    vein number and morphology in grass leaves'
+  authors:
+  - Janlo M. Robil
+  - Ke Gao
+  - Claire M. Neighbors
+  - Michael Boeding
+  - Francine M. Carland
+  - Filiz Bunyak
+  - Paula McSteen
+  publisher: The Plant Journal
+  date: '2021-05-27'
+  link: https://doi.org/gsq9kg
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-65414-6_28
+  title: 'CorNet: Unsupervised Deep Homography Estimation for Agricultural Aerial
+    Imagery'
+  authors:
+  - Dewi Endah Kharismawati
+  - Hadi Ali Akbarpour
+  - Rumana Aktar
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Toni Kazic
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/gm9rk5
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP40778.2020.9191342
+  title: Deep Learning Based Landmark Matching For Aerial Geolocalization
+  authors:
+  - Koundinya Nouduri
+  - Filiz Bunyak
+  - Shizeng Yao
+  - Hadi Aliakbarpour
+  - Sanjeev Agarwal
+  - Raghuveer Rao
+  - Kannappan Palaniappa
+  publisher: 2020 IEEE International Conference on Image Processing (ICIP)
+  date: '2020-10-01'
+  link: https://doi.org/g9pfh2
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12652-019-01310-5
+  title: Deep learning-based face analysis system for monitoring customer interest
+  authors:
+  - Gozde Yolcu
+  - Ismail Oztel
+  - Serap Kazan
+  - Cemil Oz
+  - Filiz Bunyak
+  publisher: Journal of Ambient Intelligence and Humanized Computing
+  date: '2019-05-03'
+  link: https://doi.org/gp6pjh
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICPR48806.2021.9412844
+  title: Deep Realistic Novel View Generation for City-Scale Aerial Images
+  authors:
+  - Koundinya Nouduri
+  - Ke Gao
+  - Joshua Fraser
+  - Shizeng Yao
+  - Hadi AliAkbarpour
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2020 25th International Conference on Pattern Recognition (ICPR)
+  date: '2021-01-10'
+  link: https://doi.org/g9pfh3
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP40778.2020.9190792
+  title: Ensemble Of Deep Cascades For Detection Of Laryngeal Adductor Reflex Events
+    In Endoscopy Videos
+  authors:
+  - Ali S. Hamad
+  - Yang Y. Wang
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: 2020 IEEE International Conference on Image Processing (ICIP)
+  date: '2020-10-01'
+  link: https://doi.org/g9pfh4
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR50011.2020.9425078
+  title: Evaluation of Different Decision Fusion Mechanisms for Robust Moving Object
+    Detection
+  authors:
+  - Gani Rahmon
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2020 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2020-10-13'
+  link: https://doi.org/g9pfh5
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP40778.2020.9191045
+  title: Mosaicing of Dynamic Mesentery Video with Gradient Blending
+  authors:
+  - Rumana Aktar
+  - V. H. Huxley
+  - G. Guidoboni
+  - H. AliAkbarpour
+  - F. Bunyak
+  - K. Palaniappan
+  publisher: 2020 IEEE International Conference on Image Processing (ICIP)
+  date: '2020-10-01'
+  link: https://doi.org/g9pfh6
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICPR48806.2021.9413211
+  title: 'Motion U-Net: Multi-cue Encoder-Decoder Network for Motion Segmentation'
+  authors:
+  - Gani Rahmon
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2020 25th International Conference on Pattern Recognition (ICPR)
+  date: '2021-01-10'
+  link: https://doi.org/gm4b6h
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICPR48806.2021.9412122
+  title: Multi-focus Image Fusion for Confocal Microscopy Using U-Net Regression Map
+  authors:
+  - Md Maruf Hossain Shuvo
+  - Yasmin M. Kassim
+  - Filiz Bunyak
+  - Olga V. Glinskii
+  - Leike Xie
+  - Vladislav V. Glinsky
+  - Virginia H. Huxley
+  - Mahesh M. Thakkar
+  - Kannappan Palaniappan
+  publisher: 2020 25th International Conference on Pattern Recognition (ICPR)
+  date: '2021-01-10'
+  link: https://doi.org/gnt9fd
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC44109.2020.9176149
+  title: Orthogonal Region Selection Network for Laryngeal Closure Detection in Laryngoscopy
+    Videos
+  authors:
+  - Yang Yang Wang
+  - Ali S. Hamad
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: 2020 42nd Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2020-07-01'
+  link: https://doi.org/gpc7nw
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fneur.2020.00004
+  title: Persistent Feeding and Swallowing Deficits in a Mouse Model of 22q11.2 Deletion
+    Syndrome
+  authors:
+  - Lauren Welby
+  - Hailey Caudill
+  - Gelila Yitsege
+  - Ali Hamad
+  - Filiz Bunyak
+  - Irene E. Zohn
+  - Thomas Maynard
+  - Anthony-Samuel LaMantia
+  - David Mendelowitz
+  - Teresa E. Lever
+  publisher: Frontiers in Neurology
+  date: '2020-01-31'
+  link: https://doi.org/g9pfh7
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cne.24774
+  title: Recurrent laryngeal nerve transection in mice results in translational upper
+    airway dysfunction
+  authors:
+  - Megan M. Haney
+  - Ali Hamad
+  - Henok G. Woldu
+  - Michelle Ciucci
+  - Nicole Nichols
+  - Filiz Bunyak
+  - Teresa E. Lever
+  publisher: Journal of Comparative Neurology
+  date: '2019-10-18'
+  link: https://doi.org/gsqn9x
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aps3.11387
+  title: Robust mosaicking of maize fields from aerial imagery
+  authors:
+  - Rumana Aktar
+  - Dewi Endah Kharismawati
+  - Kannappan Palaniappan
+  - Hadi Aliakbarpour
+  - Filiz Bunyak
+  - Ann E. Stapleton
+  - Toni Kazic
+  publisher: Applications in Plant Sciences
+  date: '2020-08-01'
+  link: https://doi.org/g9pfh8
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cag.2020.07.010
+  title: 'SHREC 2020: Classification in cryo-electron tomograms'
+  authors:
+  - Ilja Gubins
+  - Marten L. Chaillet
+  - Gijs van der Schot
+  - Remco C. Veltkamp
+  - "Friedrich F\xF6rster"
+  - Yu Hao
+  - Xiaohua Wan
+  - Xuefeng Cui
+  - Fa Zhang
+  - Emmanuel Moebel
+  - Xiao Wang
+  - Daisuke Kihara
+  - Xiangrui Zeng
+  - Min Xu
+  - Nguyen P. Nguyen
+  - Tommi White
+  - Filiz Bunyak
+  publisher: Computers &amp; Graphics
+  date: '2020-10-01'
+  link: https://doi.org/hn3c
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR50011.2020.9425339
+  title: Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance
+    Videos using Deep Detection and Multi-object Tracking Techniques
+  authors:
+  - Noor M. AL-Shakarji
+  - Ekincan Ufuktepe
+  - Filiz Bunyak
+  - Hadi Aliakbarpour
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2020 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2020-10-13'
+  link: https://doi.org/g9pfh9
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-66823-5_43
+  title: 'VisDrone-MOT2020: The Vision Meets Drone Multiple Object Tracking Challenge
+    Results'
+  authors:
+  - Heng Fan
+  - Dawei Du
+  - Longyin Wen
+  - Pengfei Zhu
+  - Qinghua Hu
+  - Haibin Ling
+  - Mubarak Shah
+  - Junwen Pan
+  - Arne Schumann
+  - Bin Dong
+  - Daniel Stadler
+  - Duo Xu
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Guizhong Liu
+  - V. Haritha
+  - P. S. Hrishikesh
+  - Jie Han
+  - Kannappan Palaniappan
+  - Kaojin Zhu
+  - Lars Wilko Sommer
+  - Libo Zhang
+  - Linu Shine
+  - Min Yao
+  - Noor M. Al-Shakarji
+  - Shengwen Li
+  - Ting Sun
+  - Wang Sai
+  - Wentao Yu
+  - Xi Wu
+  - Xiaopeng Hong
+  - Xing Wei
+  - Xingjie Zhao
+  - Yanyun Zhao
+  - Yihong Gong
+  - Yuehan Yao
+  - Yuhang He
+  - Zhaoze Zhao
+  - Zhen Xie
+  - Zheng Yang
+  - Zhenyu Xu
+  - Zhipeng Luo
+  - Zhizhao Duan
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/g9pfjb
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2018.8621224
+  title: Automated Particle Picking in Cryo-Electron Micrographs using Deep Regression
+  authors:
+  - Nguyen P. Nguyen
+  - Ilker Ersoy
+  - Tommi White
+  - Filiz Bunyak
+  publisher: 2018 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2018-12-01'
+  link: https://doi.org/g9pfjc
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/lary.27609
+  title: Automated Quantification of Vocal Fold Motion in a Recurrent Laryngeal Nerve
+    Injury Mouse Model
+  authors:
+  - Megan M. Haney
+  - Ali Hamad
+  - Emily Leary
+  - Filiz Bunyak
+  - Teresa E. Lever
+  publisher: The Laryngoscope
+  date: '2018-11-26'
+  link: https://doi.org/g9pfjd
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CVPRW.2019.00023
+  title: Automated Segmentation of the Vocal Folds in Laryngeal Endoscopy Videos Using
+    Deep Convolutional Regression Networks
+  authors:
+  - Ali Hamad
+  - Megan Haney
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+    (CVPRW)
+  date: '2019-06-01'
+  link: https://doi.org/g9pfjf
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/vop.12632
+  title: Comparison of two cleaning and sterilization protocols of diamond burr tips
+    used in debridement for canine superficial chronic corneal epithelial defects
+  authors:
+  - Kayla C. Banks
+  - David E. Stalla
+  - Filiz E. Bunyak
+  - Tommi A. White
+  - Loren G. Schultz
+  - Elizabeth A. Giuliano
+  publisher: Veterinary Ophthalmology
+  date: '2019-02-04'
+  link: https://doi.org/g9pfjg
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphys.2019.01364
+  title: 'Complex Non-sinus-associated Pachymeningeal Lymphatic Structures: Interrelationship
+    With Blood Microvasculature'
+  authors:
+  - Olga V. Glinskii
+  - Virginia H. Huxley
+  - Leike Xie
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Vladislav V. Glinsky
+  publisher: Frontiers in Physiology
+  date: '2019-10-31'
+  link: https://doi.org/g9pfjh
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BHI.2019.8834506
+  title: 'DeepDDK: A Deep Learning based Oral-Diadochokinesis Analysis Software'
+  authors:
+  - Yang Yang Wang
+  - Ke Gao
+  - Ashley M. Kloepper
+  - Yunxin Zhao
+  - Mili Kuruvilla-Dugdale
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: 2019 IEEE EMBS International Conference on Biomedical &amp; Health Informatics
+    (BHI)
+  date: '2019-05-01'
+  link: https://doi.org/g9pfjj
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/616169
+  title: DRPnet - Automated Particle Picking in Cryo-Electron Micrographs using Deep
+    Regression
+  authors:
+  - Nguyen P. Nguyen
+  - Jacob Gotberg
+  - Ilker Ersoy
+  - Filiz Bunyak
+  - Tommi White
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2019-04-23'
+  link: https://doi.org/gkxg4z
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/AIPR47015.2019.9316542
+  title: Exploration of Carbon Nanotube Forest Synthesis-Structure Relationships Using
+    Physics-Based Simulation and Machine Learning
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Taher Hajilounezhad
+  - Zakariya A. Oraibi
+  - Ramakrishna Surya
+  - Filiz Bunyak
+  - Matthew R. Maschmann
+  - Prasad Calyam
+  - Kannappan Palaniappan
+  publisher: 2019 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2019-10-01'
+  link: https://doi.org/g9pfjk
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1007/s11042-019-07959-6
+  title: Facial expression recognition for monitoring neurological disorders based
+    on convolutional neural network
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Gozde Yolcu
+  - Ismail Oztel
+  - Serap Kazan
+  - Cemil Oz
+  - Kannappan Palaniappan
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: Multimedia Tools and Applications
+  date: '2019-07-23'
+  link: https://doi.org/g9pfjm
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/978-3-030-25886-3_22
+  title: 'Image Analysis for Ophthalmology: Segmentation and Quantification of Retinal
+    Vascular Systems'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  - Shyam S. Chaurasia
+  publisher: Modeling and Simulation in Science, Engineering and Technology
+  date: '2019-01-01'
+  link: https://doi.org/g9pfjn
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.patrec.2017.09.015
+  title: Integrating segmentation with deep learning for enhanced classification of
+    epithelial and stromal tissues in H&amp;E images
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Zahraa Al-Milaji
+  - Ilker Ersoy
+  - Adel Hafiane
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: Pattern Recognition Letters
+  date: '2019-03-01'
+  link: https://doi.org/gm9n5n
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.48550/arxiv.1907.01176
+  title: Multi-Cue Vehicle Detection for Semantic Video Compression In Georegistered
+    Aerial Videos
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Noor Al-Shakarji
+  - Filiz Bunyak
+  - Hadi Aliakbarpour
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/g9pfjp
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR47015.2019.9174601
+  title: Performance Evaluation of Semantic Video Compression using Multi-cue Object
+    Detection
+  authors:
+  - Noor M. AL-Shakarji
+  - Filiz Bunyak
+  - Hadi Aliakbarpour
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2019 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2019-10-01'
+  link: https://doi.org/g9pfjq
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCVW.2019.00028
+  title: 'VisDrone-MOT2019: The Vision Meets Drone Multiple Object Tracking Challenge
+    Results'
+  authors:
+  - Longyin Wen
+  - Pengfei Zhu
+  - Dawei Du
+  - Xiao Bian
+  - Haibin Ling
+  - Qinghua Hu
+  - Jiayu Zheng
+  - Tao Peng
+  - Xinyao Wang
+  - Yue Zhang
+  - Liefeng Bo
+  - Hailin Shi
+  - Rui Zhu
+  - Ajit Jadhav
+  - Bing Dong
+  - Brejesh Lall
+  - Chang Liu
+  - Chunhui Zhang
+  - Dong Wang
+  - Feng Ni
+  - Filiz Bunyak
+  - Gaoang Wang
+  - Guizhong Liu
+  - Guna Seetharaman
+  - Guorong Li
+  - Hakan Ardo
+  - Haotian Zhang
+  - Hongyang Yu
+  - Huchuan Lu
+  - Jenq-Neng Hwang
+  - Jiatong Mu
+  - Jinrong Hu
+  - Kannappan Palaniappan
+  - Long Chen
+  - Lu Ding
+  - Martin Lauer
+  - Mikael Nilsson
+  - Noor M. Al-Shakarji
+  - Prerana Mukherjee
+  - Qingming Huang
+  - Robert Laganiere
+  - Shuhao Chen
+  - Siyang Pan
+  - Vinay Kaushik
+  - Wei Shi
+  - Wei Tian
+  - Weiqiang Li
+  - Xin Chen
+  - Xinyu Zhang
+  - Yanting Zhang
+  - Yanyun Zhao
+  - Yong Wang
+  - Yuduo Song
+  - Yuehan Yao
+  - Zhaotang Chen
+  - Zhenyu Xu
+  - Zhibin Xiao
+  - Zhihang Tong
+  - Zhipeng Luo
+  - Zhuojin Sun
+  publisher: 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)
+  date: '2019-10-01'
+  link: https://doi.org/g9pfjr
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-11021-5_29
+  title: 'VisDrone-VDT2018: The Vision Meets Drone Video Detection and Tracking Challenge
+    Results'
+  authors:
+  - Pengfei Zhu
+  - Longyin Wen
+  - Dawei Du
+  - Xiao Bian
+  - Haibin Ling
+  - Qinghua Hu
+  - Haotian Wu
+  - Qinqin Nie
+  - Hao Cheng
+  - Chenfeng Liu
+  - Xiaoyu Liu
+  - Wenya Ma
+  - Lianjie Wang
+  - Arne Schumann
+  - Dan Wang
+  - Diego Ortego
+  - Elena Luna
+  - Emmanouil Michail
+  - Erik Bochinski
+  - Feng Ni
+  - Filiz Bunyak
+  - Gege Zhang
+  - Guna Seetharaman
+  - Guorong Li
+  - Hongyang Yu
+  - Ioannis Kompatsiaris
+  - Jianfei Zhao
+  - Jie Gao
+  - "Jos\xE9 M. Mart\xEDnez"
+  - Juan C. San Miguel
+  - Kannappan Palaniappan
+  - Konstantinos Avgerinakis
+  - Lars Sommer
+  - Martin Lauer
+  - Mengkun Liu
+  - Noor M. Al-Shakarji
+  - Oliver Acatay
+  - Panagiotis Giannakeris
+  - Qijie Zhao
+  - Qinghua Ma
+  - Qingming Huang
+  - Stefanos Vrochidis
+  - Thomas Sikora
+  - Tobias Senst
+  - Wei Song
+  - Wei Tian
+  - Wenhua Zhang
+  - Yanyun Zhao
+  - Yidong Bai
+  - Yinan Wu
+  - Yongtao Wang
+  - Yuxuan Li
+  - Zhaoliang Pi
+  - Zhiming Ma
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/g9pfjs
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2309315
+  title: A hybrid local and global multi-object tracking with semantic spatial and
+    appearance modules
+  authors:
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  - Noor Al-Shakarji
+  publisher: Geospatial Informatics, Motion Imagery, and Network Analytics VIII
+  date: '2018-04-27'
+  link: https://doi.org/g9pfjt
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/IJDMB.2018.096398
+  title: Deep learning approaches in electron microscopy imaging for mitochondria
+    segmentation
+  authors:
+  - Ismail Oztel
+  - Gozde Yolcu
+  - Ilker Ersoy
+  - Tommi A. White
+  - Filiz Bunyak
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2018-01-01'
+  link: https://doi.org/g9pfjv
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/BOE.9.004863
+  title: Detection of exudates in fundus photographs with imbalanced learning using
+    conditional generative adversarial network
+  authors:
+  - Rui Zheng
+  - Lei Liu
+  - Shulin Zhang
+  - Chun Zheng
+  - Filiz Bunyak
+  - Ronald Xu
+  - Bin Li
+  - Mingzhai Sun
+  publisher: Biomedical Optics Express
+  date: '2018-09-14'
+  link: https://doi.org/gt2jgg
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JB.00593-17
+  title: Flexible Hinges in Bacterial Chemoreceptors
+  authors:
+  - Narahari Akkaladevi
+  - Filiz Bunyak
+  - David Stalla
+  - Tommi A. White
+  - Gerald L. Hazelbauer
+  publisher: Journal of Bacteriology
+  date: '2018-03-01'
+  link: https://doi.org/g9pfjw
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2309417
+  title: Geospatial content summarization of UAV aerial imagery using mosaicking
+  authors:
+  - Hadi AliAkbarpour
+  - Toni Kazic
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  - Rumana Aktar
+  - Filiz Bunyak
+  publisher: Geospatial Informatics, Motion Imagery, and Network Analytics VIII
+  date: '2018-04-27'
+  link: https://doi.org/gm9rk4
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JEI.27.2.023003
+  title: 'iFER: facial expression recognition using automatically selected geometric
+    eye and eyebrow features'
+  authors:
+  - Ismail Oztel
+  - Gozde Yolcu
+  - Cemil Oz
+  - Serap Kazan
+  - Filiz Bunyak
+  publisher: Journal of Electronic Imaging
+  date: '2018-03-05'
+  link: https://doi.org/g9pfjx
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR.2018.8707397
+  title: Improving Nuclei Classification Performance in H&amp;E Stained Tissue Images
+    Using Fully Convolutional Regression Network and Convolutional Neural Network
+  authors:
+  - Ali Hamad
+  - Ilker Ersoy
+  - Filiz Bunyak
+  publisher: 2018 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2018-10-01'
+  link: https://doi.org/g9pfjz
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AVSS.2018.8639321
+  title: Multi-object Tracking Cascade with Multi-Step Data Association and Occlusion
+    Handling
+  authors:
+  - Noor M. Al-Shakarji
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2018 15th IEEE International Conference on Advanced Video and Signal
+    Based Surveillance (AVSS)
+  date: '2018-11-01'
+  link: https://doi.org/g9pfj2
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR.2018.8707402
+  title: Performance Evaluation of Feature Descriptors for Aerial Imagery Mosaicking
+  authors:
+  - Rumana Aktar
+  - Hadi Aliakbarpour
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2018 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2018-10-01'
+  link: https://doi.org/g9pfj3
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR.2018.8707377
+  title: Robust Multi-object Tracking for Wide Area Motion Imagery
+  authors:
+  - Noor M. AL-Shakarji
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2018 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2018-10-01'
+  link: https://doi.org/g9pfj4
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2309807
+  title: Robust target tracking using adaptive color feature and likelihood fusion
+  authors:
+  - Arnaud Bouix
+  - Noor Al-Shakarji
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Alban Chazot
+  - Adel Hafiane
+  - Ke Gao
+  publisher: Geospatial Informatics, Motion Imagery, and Network Analytics VIII
+  date: '2018-04-27'
+  link: https://doi.org/g9pfj5
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AVSS.2018.8639089
+  title: 'UA-DETRAC 2018: Report of AVSS2018 &amp; IWT4S Challenge on Advanced Traffic
+    Monitoring'
+  authors:
+  - Siwei Lyu
+  - Ming-Ching Chang
+  - Dawei Du
+  - Wenbo Li
+  - Yi Wei
+  - Marco Del Coco
+  - Pierluigi Carcagni
+  - Arne Schumann
+  - Bharti Munjal
+  - Dinh-Quoc-Trung Dang
+  - Doo-Hyun Choi
+  - Erik Bochinski
+  - Fabio Galasso
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Jang-Woon Baek
+  - Jong Taek Lee
+  - Kannappan Palaniappan
+  - Kil-Taek Lim
+  - Kiyoung Moon
+  - Kwang-Ju Kim
+  - Lars Sommer
+  - Meltem Brandlmaier
+  - Min-Sung Kang
+  - Moongu Jeon
+  - Noor M. Al-Shakarji
+  - Oliver Acatay
+  - Pyong-Kun Kim
+  - Sikandar Amin
+  - Thomas Sikora
+  - Tien Dinh
+  - Tobias Senst
+  - Vu-Gia-Hy Che
+  - Young-Chul Lim
+  - Young-min Song
+  - Yun-Su Chung
+  publisher: 2018 15th IEEE International Conference on Advanced Video and Signal
+    Based Surveillance (AVSS)
+  date: '2018-11-01'
+  link: https://doi.org/gh5f3g
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR.2016.8010604
+  title: 'CS-LoFT: Color and scale adaptive tracking using max-pooling with bhattacharyya
+    distance'
+  authors:
+  - Noor M. AL-Shakarji
+  - Filiz Bunyak
+  - Guna Seetharamany
+  - Kannappan Palaniappan
+  publisher: 2016 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2016-10-01'
+  link: https://doi.org/g9pfj6
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2017.8217907
+  title: Deep learning-based facial expression recognition for monitoring neurological
+    disorders
+  authors:
+  - Gozde Yolcu
+  - Ismail Oztel
+  - Serap Kazan
+  - Cemil Oz
+  - Kannappan Palaniappan
+  - Teresa E. Lever
+  - Filiz Bunyak
+  publisher: 2017 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2017-11-01'
+  link: https://doi.org/g9pfj7
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC.2017.8036891
+  title: Development of semi-automatic procedure for detection and tracking of fiducial
+    markers for orofacial kinematics during natural feeding
+  authors:
+  - Filiz Bunyak
+  - Naru Shiraishi
+  - Kannappan Palaniappan
+  - Teresa E. Lever
+  - Limor Avivi-Arber
+  - Kazutaka Takahashi
+  publisher: 2017 39th Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society (EMBC)
+  date: '2017-07-01'
+  link: https://doi.org/g9pfj8
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1711.01919
+  title: Fast Integral Histogram Computations on GPU for Real-Time Video Analytics
+  authors:
+  - Mahdieh Poostchi
+  - Kannappan Palaniappan
+  - Da Li
+  - Michela Becchi
+  - Filiz Bunyak
+  - Guna Seetharaman
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g9pfj9
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2017.8217827
+  title: Mitochondria segmentation in electron microscopy volumes using deep convolutional
+    neural network
+  authors:
+  - Ismail Oztel
+  - Gozde Yolcu
+  - Ilker Ersoy
+  - Tommi White
+  - Filiz Bunyak
+  publisher: 2017 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2017-11-01'
+  link: https://doi.org/g9pfkb
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP.2017.8296798
+  title: 'Museed: A mobile image analysis application for plant seed morphometry'
+  authors:
+  - Ke Gao
+  - Tommi White
+  - Kannappan Palaniappan
+  - Michele Warmund
+  - Filiz Bunyak
+  publisher: 2017 IEEE International Conference on Image Processing (ICIP)
+  date: '2017-09-01'
+  link: https://doi.org/g9pfkc
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AVSS.2017.8078507
+  title: Robust multi-object tracking with semantic color correlation
+  authors:
+  - Noor M. Al-Shakarji
+  - Guna Seetharaman
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2017 14th IEEE International Conference on Advanced Video and Signal
+    Based Surveillance (AVSS)
+  date: '2017-08-01'
+  link: https://doi.org/g9pfkd
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AVSS.2017.8078560
+  title: 'UA-DETRAC 2017: Report of AVSS2017 &amp; IWT4S Challenge on Advanced Traffic
+    Monitoring'
+  authors:
+  - Siwei Lyu
+  - Ming-Ching Chang
+  - Dawei Du
+  - Longyin Wen
+  - Honggang Qi
+  - Yuezun Li
+  - Yi Wei
+  - Lipeng Ke
+  - Tao Hu
+  - Marco Del Coco
+  - Pierluigi Carcagni
+  - Dmitriy Anisimov
+  - Erik Bochinski
+  - Fabio Galasso
+  - Filiz Bunyak
+  - Guang Han
+  - Hao Ye
+  - Hong Wang
+  - Kannappan Palaniappan
+  - Koray Ozcan
+  - Li Wang
+  - Liang Wang
+  - Martin Lauer
+  - Nattachai Watcharapinchai
+  - Nenghui Song
+  - Noor M. Al-Shakarji
+  - Shuo Wang
+  - Sikandar Amin
+  - Sitapa Rujikietgumjorn
+  - Tatiana Khanova
+  - Thomas Sikora
+  - Tino Kutschbach
+  - Volker Eiselein
+  - Wei Tian
+  - Xiangyang Xue
+  - Xiaoyi Yu
+  - Yao Lu
+  - Yingbin Zheng
+  - Yongzhen Huang
+  - Yuqi Zhang
+  publisher: 2017 14th IEEE International Conference on Advanced Video and Signal
+    Based Surveillance (AVSS)
+  date: '2017-08-01'
+  link: https://doi.org/g9pfkf
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIPR.2017.8457953
+  title: Vehicle Tracking in Wide Area Motion Imagery using KC- LoFT Multi-Feature
+    Discriminative Modeling
+  authors:
+  - Noor M. Al-Shakarji
+  - Filiz Bunyak
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2017 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2017-10-01'
+  link: https://doi.org/g9pfkg
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISM.2015.124
+  title: Automatic Video Content Summarization Using Geospatial Mosaics of Aerial
+    Imagery
+  authors:
+  - Raphael Viguier
+  - Chung Ching Lin
+  - Hadi AliAkbarpour
+  - Filiz Bunyak
+  - Sharathchandra Pankanti
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2015 IEEE International Symposium on Multimedia (ISM)
+  date: '2015-12-01'
+  link: https://doi.org/g9pfkh
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.exer.2015.09.010
+  title: "Development of a novel in\_vivo corneal fibrosis model in the dog"
+  authors:
+  - K.M. Gronkiewicz
+  - E.A. Giuliano
+  - K. Kuroki
+  - F. Bunyak
+  - A. Sharma
+  - L.B.C. Teixeira
+  - C.W. Hamm
+  - R.R. Mohan
+  publisher: Experimental Eye Research
+  date: '2016-02-01'
+  link: https://doi.org/g9pfkj
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICPR.2016.7900065
+  title: Moving object detection for vehicle tracking in Wide Area Motion Imagery
+    using 4D filtering
+  authors:
+  - Kannappan Palaniappan
+  - Mahdieh Poostchi
+  - Hadi Aliakbarpour
+  - Raphael Viguier
+  - Joshua Fraser
+  - Filiz Bunyak
+  - Arslan Basharat
+  - Steve Suddarth
+  - Erik Blasch
+  - Raghuveer M. Rao
+  - Guna Seetharaman
+  publisher: 2016 23rd International Conference on Pattern Recognition (ICPR)
+  date: '2016-12-01'
+  link: https://doi.org/g9pfkk
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CVPRW.2016.196
+  title: Semantic Depth Map Fusion for Moving Vehicle Detection in Aerial Video
+  authors:
+  - Mahdieh Poostchi
+  - Hadi Aliakbarpour
+  - Raphael Viguier
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Guna Seetharaman
+  publisher: 2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+    (CVPRW)
+  date: '2016-06-01'
+  link: https://doi.org/g9pfkm
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCVW.2015.79
+  title: The Visual Object Tracking VOT2015 Challenge Results
+  authors: []
+  publisher: 2015 IEEE International Conference on Computer Vision Workshop (ICCVW)
+  date: '2015-12-01'
+  link: https://doi.org/f3pfpx
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-48881-3_55
+  title: The Thermal Infrared Visual Object Tracking VOT-TIR2016 Challenge Results
+  authors:
+  - Michael Felsberg
+  - Matej Kristan
+  - "Ji\u0159i Matas"
+  - "Ale\u0161 Leonardis"
+  - Roman Pflugfelder
+  - "Gustav H\xE4ger"
+  - Amanda Berg
+  - Abdelrahman Eldesokey
+  - "J\xF6rgen Ahlberg"
+  - "Luka \u010Cehovin"
+  - "Tom\xE1\u0161 Voj\xEDr\u0303"
+  - "Alan Luke\u017Ei\u010D"
+  - "Gustavo Fern\xE1ndez"
+  - Alfredo Petrosino
+  - Alvaro Garcia-Martin
+  - "Andr\xE9s Sol\xEDs Montero"
+  - Anton Varfolomieiev
+  - Aykut Erdem
+  - Bohyung Han
+  - Chang-Ming Chang
+  - Dawei Du
+  - Erkut Erdem
+  - Fahad Shahbaz Khan
+  - Fatih Porikli
+  - Fei Zhao
+  - Filiz Bunyak
+  - Francesco Battistone
+  - Gao Zhu
+  - Guna Seetharaman
+  - Hongdong Li
+  - Honggang Qi
+  - Horst Bischof
+  - Horst Possegger
+  - Hyeonseob Nam
+  - Jack Valmadre
+  - Jianke Zhu
+  - Jiayi Feng
+  - Jochen Lang
+  - Jose M. Martinez
+  - Kannappan Palaniappan
+  - Karel Lebeda
+  - Ke Gao
+  - Krystian Mikolajczyk
+  - Longyin Wen
+  - Luca Bertinetto
+  - Mahdieh Poostchi
+  - Mario Maresca
+  - Martin Danelljan
+  - Michael Arens
+  - Ming Tang
+  - Mooyeol Baek
+  - Nana Fan
+  - Noor Al-Shakarji
+  - Ondrej Miksik
+  - Osman Akin
+  - Philip H. S. Torr
+  - Qingming Huang
+  - Rafael Martin-Nieto
+  - Rengarajan Pelapur
+  - Richard Bowden
+  - "Robert Lagani\xE8re"
+  - Sebastian B. Krah
+  - Shengkun Li
+  - Shizeng Yao
+  - Simon Hadfield
+  - Siwei Lyu
+  - Stefan Becker
+  - Stuart Golodetz
+  - Tao Hu
+  - Thomas Mauthner
+  - Vincenzo Santopietro
+  - Wenbo Li
+  - "Wolfgang H\xFCbner"
+  - Xin Li
+  - Yang Li
+  - Zhan Xu
+  - Zhenyu He
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/f3t6bs
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-48881-3_54
+  title: The Visual Object Tracking VOT2016 Challenge Results
+  authors:
+  - Matej Kristan
+  - "Ale\u0161 Leonardis"
+  - "Ji\u0159i Matas"
+  - Michael Felsberg
+  - Roman Pflugfelder
+  - "Luka \u010Cehovin"
+  - "Tom\xE1\u0161 Voj\xEDr\u0303"
+  - "Gustav H\xE4ger"
+  - "Alan Luke\u017Ei\u010D"
+  - "Gustavo Fern\xE1ndez"
+  - Abhinav Gupta
+  - Alfredo Petrosino
+  - Alireza Memarmoghadam
+  - Alvaro Garcia-Martin
+  - "Andr\xE9s Sol\xEDs Montero"
+  - Andrea Vedaldi
+  - Andreas Robinson
+  - Andy J. Ma
+  - Anton Varfolomieiev
+  - Aydin Alatan
+  - Aykut Erdem
+  - Bernard Ghanem
+  - Bin Liu
+  - Bohyung Han
+  - Brais Martinez
+  - Chang-Ming Chang
+  - Changsheng Xu
+  - Chong Sun
+  - Daijin Kim
+  - Dapeng Chen
+  - Dawei Du
+  - Deepak Mishra
+  - Dit-Yan Yeung
+  - Erhan Gundogdu
+  - Erkut Erdem
+  - Fahad Khan
+  - Fatih Porikli
+  - Fei Zhao
+  - Filiz Bunyak
+  - Francesco Battistone
+  - Gao Zhu
+  - Giorgio Roffo
+  - Gorthi R. K. Sai Subrahmanyam
+  - Guilherme Bastos
+  - Guna Seetharaman
+  - Henry Medeiros
+  - Hongdong Li
+  - Honggang Qi
+  - Horst Bischof
+  - Horst Possegger
+  - Huchuan Lu
+  - Hyemin Lee
+  - Hyeonseob Nam
+  - Hyung Jin Chang
+  - Isabela Drummond
+  - Jack Valmadre
+  - Jae-chan Jeong
+  - Jae-il Cho
+  - Jae-Yeong Lee
+  - Jianke Zhu
+  - Jiayi Feng
+  - Jin Gao
+  - Jin Young Choi
+  - Jingjing Xiao
+  - Ji-Wan Kim
+  - Jiyeoup Jeong
+  - "Jo\xE3o F. Henriques"
+  - Jochen Lang
+  - Jongwon Choi
+  - Jose M. Martinez
+  - Junliang Xing
+  - Junyu Gao
+  - Kannappan Palaniappan
+  - Karel Lebeda
+  - Ke Gao
+  - Krystian Mikolajczyk
+  - Lei Qin
+  - Lijun Wang
+  - Longyin Wen
+  - Luca Bertinetto
+  - Madan Kumar Rapuru
+  - Mahdieh Poostchi
+  - Mario Maresca
+  - Martin Danelljan
+  - Matthias Mueller
+  - Mengdan Zhang
+  - Michael Arens
+  - Michel Valstar
+  - Ming Tang
+  - Mooyeol Baek
+  - Muhammad Haris Khan
+  - Naiyan Wang
+  - Nana Fan
+  - Noor Al-Shakarji
+  - Ondrej Miksik
+  - Osman Akin
+  - Payman Moallem
+  - Pedro Senna
+  - Philip H. S. Torr
+  - Pong C. Yuen
+  - Qingming Huang
+  - Rafael Martin-Nieto
+  - Rengarajan Pelapur
+  - Richard Bowden
+  - "Robert Lagani\xE8re"
+  - Rustam Stolkin
+  - Ryan Walsh
+  - Sebastian B. Krah
+  - Shengkun Li
+  - Shengping Zhang
+  - Shizeng Yao
+  - Simon Hadfield
+  - Simone Melzi
+  - Siwei Lyu
+  - Siyi Li
+  - Stefan Becker
+  - Stuart Golodetz
+  - Sumithra Kakanuru
+  - Sunglok Choi
+  - Tao Hu
+  - Thomas Mauthner
+  - Tianzhu Zhang
+  - Tony Pridmore
+  - Vincenzo Santopietro
+  - Weiming Hu
+  - Wenbo Li
+  - "Wolfgang H\xFCbner"
+  - Xiangyuan Lan
+  - Xiaomeng Wang
+  - Xin Li
+  - Yang Li
+  - Yiannis Demiris
+  - Yifan Wang
+  - Yuankai Qi
+  - Zejian Yuan
+  - Zexiong Cai
+  - Zhan Xu
+  - Zhenyu He
+  - Zhizhen Chi
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/f3t29x
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2015.7359726
+  title: A segmentation-based multi-scale framework for the classification of epithelial
+    and stromal tissues in H&amp;E images
+  authors:
+  - Filiz Bunyak
+  - Adel Hafiane
+  - Zahraa Al-Milaji
+  - Ilker Ersoy
+  - Anoop Haridas
+  - Kannappan Palaniappan
+  publisher: 2015 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2015-11-01'
+  link: https://doi.org/g9pfkn
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsif.2015.0049
+  title: Directional reversals enable<i>Myxococcus xanthus</i>cells to produce collective
+    one-dimensional streams during fruiting-body formation
+  authors:
+  - Shashi Thutupalli
+  - Mingzhai Sun
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Joshua W. Shaevitz
+  publisher: Journal of The Royal Society Interface
+  date: '2015-08-01'
+  link: https://doi.org/g9pfkp
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CBMS.2015.89
+  title: Interactive Segmentation Relabeling for Classification of Whole-Slide Histopathology
+    Imagery
+  authors:
+  - Anoop Haridas
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2015 IEEE 28th International Symposium on Computer-Based Medical Systems
+  date: '2015-06-01'
+  link: https://doi.org/g9pfkq
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCD.2015.7357187
+  title: 'Resilient mobile cognition: Algorithms, innovations, and architectures'
+  authors:
+  - R. Viguier
+  - C.-C. Lin
+  - K. Swaminathan
+  - A. Vega
+  - A. Buyuktosunoglu
+  - S. Pankanti
+  - P. Bose
+  - H. Akbarpour
+  - F. Bunyak
+  - K. Palaniappan
+  - G. Seetharaman
+  publisher: 2015 33rd IEEE International Conference on Computer Design (ICCD)
+  date: '2015-10-01'
+  link: https://doi.org/gm9rk2
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC.2014.6944682
+  title: Multi-focus image fusion using epifluorescence microscopy for robust vascular
+    segmentation
+  authors:
+  - Rengarajan Pelapur
+  - V. B. Surya Prasath
+  - Filiz Bunyak
+  - Olga V. Glinskii
+  - Vladislav V. Glinsky
+  - Virginia H. Huxley
+  - Kannappan Palaniappan
+  publisher: 2014 36th Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society
+  date: '2014-08-01'
+  link: https://doi.org/g9pfkr
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.22.012160
+  title: 'Superresolution microscope image reconstruction by spatiotemporal object
+    decomposition and association: application in resolving t-tubule structure in
+    skeletal muscle'
+  authors:
+  - Mingzhai Sun
+  - Jiaqing Huang
+  - Filiz Bunyak
+  - Kristyn Gumpper
+  - Gejing De
+  - Matthew Sermersheim
+  - George Liu
+  - Pei-Hui Lin
+  - Kannappan Palaniappan
+  - Jianjie Ma
+  publisher: Optics Express
+  date: '2014-05-13'
+  link: https://doi.org/g9pfks
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1113/jphysiol.2013.264929
+  title: Vasoactive agonists exert dynamic and coordinated effects on vascular smooth
+    muscle cell elasticity, cytoskeletal remodelling and adhesion
+  authors:
+  - Zhongkui Hong
+  - Zhe Sun
+  - Min Li
+  - Zhaohui Li
+  - Filiz Bunyak
+  - Ilker Ersoy
+  - Jerome P. Trzeciakowski
+  - Marius Catalin Staiculescu
+  - Minshan Jin
+  - "Luis Martinez\u2010Lemus"
+  - Michael A. Hill
+  - Kannappan Palaniappan
+  - Gerald A. Meininger
+  publisher: The Journal of Physiology
+  date: '2014-03-14'
+  link: https://doi.org/g9pfkt
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-37410-4_23
+  title: Efficient GPU Implementation of the Integral Histogram
+  authors:
+  - Mahdieh Poostchi
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  - Michela Becchi
+  - Guna Seetharaman
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/g7r33w
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2015672
+  title: Feature selection for appearance-based vehicle tracking in geospatial video
+  authors:
+  - Mahdieh Poostchi
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Guna Seetharaman
+  publisher: SPIE Proceedings
+  date: '2013-06-13'
+  link: https://doi.org/g9pfkv
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jbm.a.34504
+  title: Influence of membrane cholesterol and substrate elasticity on endothelial
+    cell spreading behavior
+  authors:
+  - Zhongkui Hong
+  - Ilker Ersoy
+  - Mingzhai Sun
+  - Filiz Bunyak
+  - Paul Hampel
+  - Zhenling Hong
+  - Zhe Sun
+  - Zhaohui Li
+  - Irena Levitan
+  - Gerald A. Meininger
+  - Kannappan Palaniappan
+  publisher: Journal of Biomedical Materials Research Part A
+  date: '2012-12-13'
+  link: https://doi.org/g9pfkw
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2016407
+  title: Vehicle detection and orientation estimation using the radon transform
+  authors:
+  - Rengarajan Pelapur
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Gunasekaran Seetharaman
+  publisher: SPIE Proceedings
+  date: '2013-06-14'
+  link: https://doi.org/g9pfkx
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2012.6235656
+  title: Coupled edge profile active contours for red blood cell flow analysis
+  authors:
+  - I. Ersoy
+  - F. Bunyak
+  - J. M. Higgins
+  - K. Palaniappan
+  publisher: 2012 9th IEEE International Symposium on Biomedical Imaging (ISBI)
+  date: '2012-05-01'
+  link: https://doi.org/g9pfkz
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.920529
+  title: Feature fusion using ranking for object tracking in aerial imagery
+  authors:
+  - Sema Candemir
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  - Guna Seetharaman
+  publisher: SPIE Proceedings
+  date: '2012-05-01'
+  link: https://doi.org/g9pfk2
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2425333.2425358
+  title: Feature prominence-based weighting scheme for video tracking
+  authors:
+  - Sema Candemir
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  - Raghuveer M. Rao
+  - Guna Seetharaman
+  publisher: Proceedings of the Eighth Indian Conference on Computer Vision, Graphics
+    and Image Processing
+  date: '2012-12-16'
+  link: https://doi.org/g9pfk3
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2425333.2425352
+  title: Realtime motion detection based on the spatio-temporal median filter using
+    GPU integral histograms
+  authors:
+  - Mahdieh Poostchi
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  - Guna Seetharaman
+  publisher: Proceedings of the Eighth Indian Conference on Computer Vision, Graphics
+    and Image Processing
+  date: '2012-12-16'
+  link: https://doi.org/g9pfk4
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP.2012.6467487
+  title: Semi-automated tracking of muscle satellite cells in brightfield microscopy
+    video
+  authors:
+  - Ananda S. Chowdhury
+  - Angshuman Paul
+  - Filiz Bunyak
+  - D.D.W. Cornelison
+  - K. Palaniappan
+  publisher: 2012 19th IEEE International Conference on Image Processing
+  date: '2012-09-01'
+  link: https://doi.org/g9pfk5
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4419-7046-6_41
+  title: Histopathology Tissue Segmentation by Combining Fuzzy Clustering with Multiphase
+    Vector Level Sets
+  authors:
+  - Filiz Bunyak
+  - Adel Hafiane
+  - Kannappan Palaniappan
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2011-01-01'
+  link: https://doi.org/bqvxgs
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IV.2011.67
+  title: Visualization of Automated and Manual Trajectories in Wide-Area Motion Imagery
+  authors:
+  - Anoop Haridas
+  - Rengarajan Pelapur
+  - Joshua Fraser
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2011 15th International Conference on Information Visualisation
+  date: '2011-07-01'
+  link: https://doi.org/dwgqng
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icif.2010.5711891
+  title: Efficient feature extraction and likelihood fusion for vehicle tracking in
+    low frame rate airborne video
+  authors:
+  - K Palaniappan
+  - F Bunyak
+  - P Kumar
+  - I Ersoy
+  - S Jaeger
+  - K Ganguli
+  - A Haridas
+  - J Fraser
+  - R M Rao
+  - G Seetharaman
+  publisher: 2010 13th International Conference on Information Fusion
+  date: '2010-07-01'
+  link: https://doi.org/gprtgs
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2009.5334168
+  title: Cell segmentation in time-lapse fluorescence microscopy with temporally varying
+    sub-cellular fusion protein patterns
+  authors:
+  - F. Bunyak
+  - K. Palaniappan
+  - V. Chagin
+  - M.C. Cardoso
+  publisher: 2009 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology Society
+  date: '2009-09-01'
+  link: https://doi.org/cvkgsf
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCV.2009.5459320
+  title: Efficient segmentation using feature-based graph partitioning active contours
+  authors:
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2009 IEEE 12th International Conference on Computer Vision
+  date: '2009-09-01'
+  link: https://doi.org/ctcnr8
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2009.5192968
+  title: Evaluation of level set-based histology image segmentation using geometric
+    region criteria
+  authors:
+  - Adel Hafiane
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: '2009 IEEE International Symposium on Biomedical Imaging: From Nano to
+    Macro'
+  date: '2009-06-01'
+  link: https://doi.org/fq9k2q
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-04697-1_14
+  title: Level Set-Based Fast Multi-phase Graph Partitioning Active Contours Using
+    Constant Memory
+  authors:
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/d9pfmh
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-04271-3_75
+  title: Segmentation and Classification of Cell Cycle Phases in Fluorescence Imaging
+  authors:
+  - Ilker Ersoy
+  - Filiz Bunyak
+  - Vadim Chagin
+  - M. Christina Cardoso
+  - Kannappan Palaniappan
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/cjzfck
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP.2008.4712127
+  title: Cell segmentation using Hessian-based detection and contour evolution with
+    directional derivatives
+  authors:
+  - I. Ersoy
+  - F. Bunyak
+  - M. A. Mackey
+  - K. Palaniappan
+  publisher: 2008 15th IEEE International Conference on Image Processing
+  date: '2008-10-01'
+  link: https://doi.org/dcdq6h
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85988-8_45
+  title: Cell Spreading Analysis with Directed Edge Profile-Guided Level Set Active
+    Contours
+  authors:
+  - Ilker Ersoy
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Mingzhai Sun
+  - Gabor Forgacs
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/fvc2bn
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icpr.2008.4761744
+  title: Clustering initiated multiphase active contours and robust separation of
+    nuclei groups for tissue segmentation
+  authors:
+  - Adel Hafiane
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: 2008 19th International Conference on Pattern Recognition
+  date: '2008-12-01'
+  link: https://doi.org/c8ndg3
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iembs.2008.4649868
+  title: Epifluorescence-based quantitative microvasculature remodeling using geodesic
+    level-sets and shape-based evolution
+  authors:
+  - F. Bunyak
+  - K. Palaniappan
+  - O. Glinskii
+  - V. Glinskii
+  - V. Glinsky
+  - V. Huxley
+  publisher: 2008 30th Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society
+  date: '2008-08-01'
+  link: https://doi.org/bhdqr7
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-88458-3_82
+  title: Fuzzy Clustering and Active Contours for Histopathology Image Segmentation
+    and Nuclei Detection
+  authors:
+  - Adel Hafiane
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/cc2mv3
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-73040-8_43
+  title: Accurate Spatial Neighborhood Relationships for Arbitrarily-Shaped Objects
+    Using Hamilton-Jacobi GVD
+  authors:
+  - Sumit K. Nath
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/c654rb
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4304/jmm.2.4.20-33
+  title: Flux Tensor Constrained Geodesic Active Contours with Sensor Fusion for Persistent
+    Object Tracking
+  authors:
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Sumit Kumar Nath
+  - Gunasekaran Seetharaman
+  publisher: Journal of Multimedia
+  date: '2007-08-01'
+  link: https://doi.org/b5pmm2
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WACV.2007.26
+  title: Geodesic Active Contour Based Fusion of Visible and Infrared Video for Persistent
+    Object Tracking
+  authors:
+  - F. Bunyak
+  - K. Palaniappan
+  - S. Nath
+  - G. Seetharaman
+  publisher: 2007 IEEE Workshop on Applications of Computer Vision (WAC V '07)
+  date: '2007-02-01'
+  link: https://doi.org/cn434p
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11866565_13
+  title: Cell Segmentation Using Coupled Level Sets and Graph-Vertex Coloring
+  authors:
+  - Sumit K. Nath
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/cw8bdc
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11864349_84
+  title: Robust Tracking of Migrating Cells Using Four-Color Level Set Segmentation
+  authors:
+  - Sumit K. Nath
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/c2t8wx
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP.2005.1530088
+  title: A multi-hypothesis approach for salient object tracking in visual surveillance
+  authors:
+  - F. Bunyak
+  - I. Ersoy
+  - S.R. Subramanya
+  publisher: IEEE International Conference on Image Processing 2005
+  date: '2005-01-01'
+  link: https://doi.org/fsbmpv
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11559573_100
+  title: Maintaining Trajectories of Salient Objects for Robust Visual Tracking
+  authors:
+  - Filiz Bunyak
+  - S. R. Subramanya
+  publisher: Lecture Notes in Computer Science
+  date: '2005-01-01'
+  link: https://doi.org/cp5rm7
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACVMOT.2005.108
+  title: Shadow Detection by Combined Photometric Invariants for Improved Foreground
+    Segmentation
+  authors:
+  - F. Bunyak
+  - I. Ersoy
+  - S.R. Subramanya
+  publisher: 2005 Seventh IEEE Workshops on Applications of Computer Vision (WACV/MOTION'05)
+    - Volume 1
+  date: '2005-01-01'
+  link: https://doi.org/bf57kv
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ITCC.2004.1286584
+  title: A framework for trajectory based visual event retrieval
+  authors:
+  - I. Ersoy
+  - F. Bunyak
+  - S.R. Subramanya
+  publisher: 'International Conference on Information Technology: Coding and Computing,
+    2004. Proceedings. ITCC 2004.'
+  date: '2004-01-01'
+  link: https://doi.org/b7ksc6
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.326933
+  title: '&lt;title&gt;Context-sensitive filtering in RLE for PCB inspection&lt;/title&gt;'
+  authors:
+  - Fikret Ercal
+  - Filiz Bunyak
+  - Hao Feng
+  publisher: SPIE Proceedings
+  date: '1998-10-09'
+  link: https://doi.org/fpcgmk
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.326959
+  title: '&lt;title&gt;Inspection of power and ground layers in PCB images&lt;/title&gt;'
+  authors:
+  - Filiz Bunyak
+  - Fikret Ercal
+  publisher: SPIE Proceedings
+  date: '1998-10-06'
+  link: https://doi.org/ftz8bj
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.294439
+  title: '&lt;title&gt;Fast modular RLE-based inspection scheme for PCBs&lt;/title&gt;'
+  authors:
+  - Fikret Ercal
+  - Filiz Bunyak
+  - Feng Hao
+  - Lei Zheng
+  publisher: SPIE Proceedings
+  date: '1997-12-09'
+  link: https://doi.org/ffddb6
+  orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +2318,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +2334,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

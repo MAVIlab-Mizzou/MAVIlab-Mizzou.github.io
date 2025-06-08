@@ -4,7 +4,7 @@
 
 # MAVI Lab at Mizzou
 
-MAVI Lab at University of Missouri. 
+Welcome to the MAVI Lab, led by Dr. Filiz Bunyak. Our research focuses on computer vision, image processing, and artificial intelligence with applications in biomedical imaging, materials microscopy, and surveillance. We develop advanced methods including deep learning, motion analysis, and level set techniques to extract meaningful insights from complex visual data.
 
 {% include section.html %}
 

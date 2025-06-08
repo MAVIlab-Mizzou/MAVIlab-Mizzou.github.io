@@ -1,23 +1,30 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1117/12.3056192
+  image: images/publications/emma/Bag-of-graph-attributes and sparse graph structures for efficient UAV localization in complex environments.png
+
+- id: 10.1117/12.3056196
+  image: images/publications/emma/Aerial visual localization through novel applications of Weisfeiler-Lehman graph embeddings.png
+- id: 10.1117/12.3056196
+
+- id: doi:10.1117/12.3056192
+
+- id: doi:10.1109/WACVW65960.2025.00134
+  image: images/publications/sara/Adaptive Structure-Aware Connectivity-Preserving Loss for Improved Road Segmentation in Remote Sensing Images Paper.png
+- id: doi:10.1016/j.carbon.2024.119439
+
+- id: doi:https://doi.org/10.1007/s11263-023-01910-x
+
+- id: doi:10.1109/ICHMS59971.2024.10555867
+
+- id: doi:10.1109/AIPR60534.2023.10440707
+
+- id: doi:10.1109/AIPR60534.2023.10440665
+
+- id: doi:10.1016/j.exer.2022.108933
+
+- id: doi:10.1007/s00455-021-10374-5
+
+- id: doi:10.1007/978-3-031-25085-9_24
+
+- id: doi:10.23919/FUSION49465.2021.9626982

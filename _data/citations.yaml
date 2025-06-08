@@ -61,8 +61,8 @@
   date: '2024-03-01'
   link: https://doi.org/g9pfhk
   orcid: 0000-0002-0421-6920
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ICIP49359.2023.10222020
   title: Predicting Mechanical Properties of Carbon Nanotube (CNT) Images Using Multi-Layer
     Synthetic Finite Element Model Simulations
@@ -214,8 +214,8 @@
   date: '2021-10-22'
   link: https://doi.org/gm7887
   orcid: 0000-0002-0421-6920
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ICCVW54120.2021.00059
   title: Brain midline shift detection and quantification by a cascaded deep network
     pipeline on non-contrast computed tomography scans
@@ -2305,61 +2305,164 @@
   orcid: 0000-0002-0421-6920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1117/12.3056192
+  title: Bag-of-graph-attributes and sparse graph structures for efficient UAV localization
+    in complex environments
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - Emma Bennett
+  - Johanna R. Arredondo
+  - Elena Sava
+  - Ricky D. Massaro
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: Geospatial Informatics XV
+  date: '2025-05-30'
+  link: https://doi.org/g9pfw9
+  image: images/publications/emma/Bag-of-graph-attributes and sparse graph structures
+    for efficient UAV localization in complex environments.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: 10.1117/12.3056196
+  title: Aerial visual localization through novel applications of Weisfeiler-Lehman
+    graph embeddings
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Tom Winterton
+  - Emma Bennett
+  - Burak Atmaca
+  - Sara Shojaei
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: Geospatial Informatics XV
+  date: '2025-05-30'
+  link: https://doi.org/g9pfw7
+  image: images/publications/emma/Aerial visual localization through novel applications
+    of Weisfeiler-Lehman graph embeddings.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1109/WACVW65960.2025.00134
+  title: Adaptive Structure-Aware Connectivity-Preserving Loss for Improved Road Segmentation
+    in Remote Sensing Images
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Sara Shojaei
+  - Trevor Bohl
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops
+    (WACVW)
+  date: '2025-02-28'
+  link: https://doi.org/g9pfxc
+  image: images/publications/sara/Adaptive Structure-Aware Connectivity-Preserving
+    Loss for Improved Road Segmentation in Remote Sensing Images Paper.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.carbon.2024.119439
+  title: CNT forest self-assembly insights from in-situ ESEM synthesis
+  authors:
+  - Ramakrishna Surya
+  - Gordon L. Koerner
+  - Taher Hajilounezhad
+  - Kaveh Safavigerdini
+  - Martin Spies
+  - Prasad Calyam
+  - Filiz Bunyak
+  - Kannappan Palaniappan
+  - Matthew R. Maschmann
+  publisher: Carbon
+  date: '2024-10-01'
+  link: https://doi.org/g9pfxg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICHMS59971.2024.10555867
+  title: Learning-based Image Analytics in User-AI Agent Interactions for Cyber-enabled
+    Manufacturing
+  authors:
+  - Mauro Lemus Alarcon
+  - Upasana Roy
+  - Anirudh Kambhampati
+  - Nguyen Nguyen
+  - Minasadat Attari
+  - Ramakrishna Surya
+  - Filiz Bunyak
+  - Matthew Maschmann
+  - Kannappan Palaniappan
+  - Prasad Calyam
+  publisher: 2024 IEEE 4th International Conference on Human-Machine Systems (ICHMS)
+  date: '2024-05-15'
+  link: https://doi.org/g9pfxj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/AIPR60534.2023.10440707
+  title: Deep Style Transfer for Generation of Photo-realistic Synthetic Images of
+    CNT Forests
+  authors:
+  - Prashanth Reddy Kotha
+  - Minasadat Attari
+  - Matthew Maschmann
+  - Filiz Bunyak
+  publisher: 2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2023-09-27'
+  link: https://doi.org/g9phnk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/AIPR60534.2023.10440665
+  title: Multi-Loss Topology-Aware Deep Learning Network for Segmentation of Vessels
+    in Microscopy Images
+  authors:
+  - Minasadat Attari
+  - Nguyen P. Nguyen
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: 2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2023-09-27'
+  link: https://doi.org/g9phnt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.exer.2022.108933
+  title: Decorin regulates collagen fibrillogenesis during corneal wound healing in
+    mouse in vivo
+  authors:
+  - Suneel Gupta
+  - Filiz Buyank
+  - Nihant R. Sinha
+  - DeAna G. Grant
+  - Prashant R. Sinha
+  - Renato V. Iozzo
+  - Shyam S. Chaurasia
+  - Rajiv R. Mohan
+  publisher: Experimental Eye Research
+  date: '2022-03-01'
+  link: https://doi.org/g9phn5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-25085-9_24
+  title: "Self-supervised Orientation-Guided Deep Network for\_Segmentation of\_Carbon\
+    \ Nanotubes in\_SEM Imagery"
+  authors:
+  - Nguyen P. Nguyen
+  - Ramakrishna Surya
+  - Matthew Maschmann
+  - Prasad Calyam
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/g9phn9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/FUSION49465.2021.9626982
+  title: Impact of Georegistration Accuracy on Wide Area Motion Imagery Object Detection
+    and Tracking
+  authors:
+  - Noor Al-Shakarji
+  - Ke Gao
+  - Filiz Bunyak
+  - Hadi Aliakbarpour
+  - Erik Blasch
+  - Priya Narayaran
+  - Guna Seetharaman
+  - Kannappan Palaniappan
+  publisher: 2021 IEEE 24th International Conference on Information Fusion (FUSION)
+  date: '2021-11-01'
+  link: https://doi.org/g9phpb
   plugin: sources.py
   file: sources.yaml

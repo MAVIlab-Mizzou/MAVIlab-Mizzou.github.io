@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.this is test 2 
+Our lab's publications reflect our work in computer vision and image processing for both medical and material applications. We focus on artificial intelligence, machine learning, and deep learning methods for biomedical image analysis and visual surveillance, with special emphasis on motion analysis and level set techniques. Below is a list of our peer-reviewed publications highlighting these research areas.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="doi:10.1117/12.3056192" style="rich" %}
 
 {% include section.html %}
 

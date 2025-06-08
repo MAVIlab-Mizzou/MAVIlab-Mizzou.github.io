@@ -4,7 +4,7 @@ image: images/lab_members/mina/1.png
 role: phd
 affiliation: University of Missouri
 aliases:
-  - M Attari
+  - Minasadat Attari
 links:
   linkedin: attarimina/
   

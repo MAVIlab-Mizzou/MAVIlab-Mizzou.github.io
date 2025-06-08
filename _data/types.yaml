@@ -2,9 +2,9 @@
 
 # team member roles
 
-lab-director:
+principal-investigator:
   icon: fa-solid fa-microscope
-  description: Lab Director
+  description: Principal Investigator
 
 postdoc:
   icon: fa-solid fa-glasses

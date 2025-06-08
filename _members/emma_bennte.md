@@ -4,7 +4,7 @@ image: images/lab_members/emma/1.png
 role: phd
 affiliation: University of Missouri
 aliases:
-  - E Bennet
+  - Emma Bennett
 links:
   linkedin: emma-bennett-91076b106/
 

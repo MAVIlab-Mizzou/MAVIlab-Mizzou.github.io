@@ -4,7 +4,7 @@ image: images/lab_members/sara/1.png
 role: phd
 affiliation: University of Missouri
 aliases:
-  - S Shojaei
+  - Sara Shojaei
 links:
   linkedin: sarashojaei/
   google-scholar: eRLwMk0AAAAJ&hl=en 

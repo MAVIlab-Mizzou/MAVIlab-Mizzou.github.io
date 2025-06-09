@@ -14,7 +14,7 @@ Welcome to the MAVI Lab, led by Dr. Filiz Bunyak. Our research focuses on comput
 
 {% capture text %}
 
-For test, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We focus on deep learning, computer vision, and image processing in biomedical and materials imaging to solve real-world challenges.
 
 {%
   include button.html
@@ -37,8 +37,7 @@ For test, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our projects apply deep learning and computer vision techniques to biomedical image analysis and materials characterization.
 {%
   include button.html
   link="projects"
@@ -62,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a diverse group of researchers, students, and collaborators working together to advance science and technology.
 
 {%
   include button.html
@@ -85,8 +84,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-### basic settings
+<!-- ### basic settings
 
-# site properties and page defaults
-header: images/background.jpg
-footer: images/background.jpg
+# site properties and page defaults -->

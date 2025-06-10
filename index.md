@@ -4,8 +4,7 @@
 
 # MAVI Lab at Mizzou
 
-Welcome to the MAVI Lab, led by Dr. Filiz Bunyak. Our research focuses on computer vision, image processing, and artificial intelligence with applications in biomedical imaging, materials microscopy, and surveillance. We develop advanced methods including deep learning, motion analysis, and level set techniques to extract meaningful insights from complex visual data.
-
+Welcome to the MAVI Lab, led by Dr. Filiz Bunyak. Our the development of AI/ML-driven methods for image data analysis. The systems we develop are applied across various domains, including interdisciplinary collaborations to advance scientific discovery in life and material sciences, evidence-based medicine, and geospatial image analysis for applications such as aerial surveillance, disaster monitoring, and precision agriculture.
 {% include section.html %}
 
 
@@ -29,13 +28,13 @@ We focus on deep learning, computer vision, and image processing in biomedical a
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/publications/sara/ff.png"
   title="Our Research"
   text=text
+  height="100px"
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Our projects apply deep learning and computer vision techniques to biomedical image analysis and materials characterization.
 {%
@@ -57,7 +56,7 @@ Our projects apply deep learning and computer vision techniques to biomedical im
   flip=true
   style="bare"
   text=text
-%}
+%} -->
 
 {% capture text %}
 
@@ -76,7 +75,7 @@ We are a diverse group of researchers, students, and collaborators working toget
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_members/team/1.jpg"
   link="team"
   title="Our Team"
   text=text

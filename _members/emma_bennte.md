@@ -2,6 +2,7 @@
 name: Emma Bennett
 image: images/lab_members/emma/1.png
 role: phd
+status: current
 affiliation: University of Missouri
 aliases:
   - Emma Bennett

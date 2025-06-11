@@ -30,6 +30,19 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+phd-intern: 
+  icon: fa-solid fa-code
+  description: Intern,PhD
+
+ms-intern: 
+  icon: fa-solid fa-code
+  description: Intern,MS
+
+bs-intern: 
+  icon: fa-solid fa-code
+  description: Intern,BS
+
+
 # general
 
 link:
@@ -224,3 +237,14 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+
+# status
+
+current:
+
+
+graduated:
+
+
+visiting_students:

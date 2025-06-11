@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@MAVIlab-Mizzou.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: bunyak@missouri.edu
+  orcid: 0000-0002-0421-6920
+  google-scholar: sI0mZeQAAAAJ&hl=en
   github: MAVIlab-Mizzou
-  twitter: MAVIlab-Mizzou
-  youtube: MAVIlab-Mizzou
+  
 
 ### jekyll settings
 

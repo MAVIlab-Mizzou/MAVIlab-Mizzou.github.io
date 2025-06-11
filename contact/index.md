@@ -17,12 +17,7 @@ You can reach us by email or visit us in person at the University of Missouri, N
   text="bunyak@missouri.edu"
   link="bunyak@missouri.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="573-882-6483"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"

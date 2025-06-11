@@ -8,7 +8,7 @@ tags:
 <!-- excerpt start -->
 Emma Bennett and Minasadat Attari landed a funded summer internship (June – Aug 2025) at the University of Missouri’s Quantum Innovation Center.
 <!-- excerpt end -->
-They’ll be teaming up on an interdisciplinary project that fuses quantum-computing methods with biomedical vascular-graph analysis. Congrats, Emma and Mina—can’t wait to see the quantum-powered results!
+Emma will focus on quantum graph neural networks for aerial navigation, while Mina will explore biomedical vascular graph analysis using quantum computing methods. Congrats, Emma and Mina—can’t wait to see the quantum-powered results!
 
 
 

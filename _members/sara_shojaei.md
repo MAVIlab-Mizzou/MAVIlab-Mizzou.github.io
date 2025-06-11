@@ -2,6 +2,7 @@
 name: Sara Shojaei
 image: images/lab_members/sara/1.png
 role: phd
+status: current
 affiliation: University of Missouri
 aliases:
   - Sara Shojaei

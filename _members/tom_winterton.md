@@ -1,6 +1,6 @@
 ---
 name: Tom Winterton
-image: 
+image: images/lab_members/tom/tom.jpg
 role: undergrad
 status: current
 affiliation: University of Missouri

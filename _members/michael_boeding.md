@@ -1,10 +1,10 @@
 ---
 name: Michael Boeding
-image: images/lab_members/alihamed/Ali_Hamad.jpg
-role: 
-affiliation: 
+image:
+role: undergrad
+status: graduated
 aliases:
-  - Ali Hamad
+  - Michael Boeding
   - 
 links:
   google-scholar: 

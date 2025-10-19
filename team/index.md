@@ -51,8 +51,13 @@ We believe good research comes from good collaboration. Our team brings together
 
 {% capture content %}
 
-{% include figure.html image="images/lab_members/team/6.jpg" %}
 {% include figure.html image="images/lab_members/team/2.jpg" %}
+{%
+  include figure.html
+  image="images/lab_members/team/8.jpg"
+  width="360px"
+%}
+
 {% include figure.html image="images/lab_members/team/3.jpg" %}
 
 {% endcapture %}

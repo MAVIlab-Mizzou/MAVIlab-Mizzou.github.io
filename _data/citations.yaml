@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/aipr60534.2023.10440665
+  title: Multi-Loss Topology-Aware Deep Learning Network for Segmentation of Vessels
+    in Microscopy Images
+  authors:
+  - Minasadat Attari
+  - Nguyen P. Nguyen
+  - Kannappan Palaniappan
+  - Filiz Bunyak
+  publisher: 2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  date: '2023-09-27'
+  link: https://doi.org/g9phnt
+  orcid: 0000-0002-0421-6920
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/cvprw59228.2023.00345
   title: 'CNT-NeRF: Carbon Nanotube Forest Depth Layer Decomposition in SEM Imagery
     using Generative Adversarial Networks'
